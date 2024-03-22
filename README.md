@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning AI Development, learning new languages and read about a lot of stuff about the internet's history.
 - 🌱 I’m currently learning Java for app development on Android, JS and HTML & CSS for webdesign. 
 - 💞️ I’m looking to collaborate on bots ideas for discord, programming them, upgrade them & make them work; also participate in any kind of program development.
-- 📫 How to reach me: You can send me an email to guegudz123@gmail.com with you want to talk to me.
+- 📫 How to reach me: You can send me an email to gustavgued02@gmail.com with you want to talk to me.
