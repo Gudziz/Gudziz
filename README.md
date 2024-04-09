@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Gustavo Guedes, also know as Disabledesk.
-- 👀 I’m interested in learning AI development, learning new languages and read about a lot of stuff about the internet's history.
-- 🌱 I’m currently learning Java for app development on Android and Bootstrap for front-end development. 
-- 💞️ I also like to make discord bots, looking each time to do some better upgrades on them.
-- 📫 How to reach me: You can send me an email to gustavgued02@gmail.com or add me on Discord - disabledesk if you want.
+  
